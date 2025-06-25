@@ -15,6 +15,11 @@ Este projeto busca transformar dados brutos sobre despesas públicas municipais 
 - Ferramentas de apoio para tomada de decisão por parte de gestores e fiscalização;
 - Acesso democrático à informação para toda a população.
 
+## 🗂️ Fonte dos Dados
+
+Os dados utilizados neste projeto foram extraídos do portal oficial do Governo do Estado de Minas Gerais:  
+[https://dados.mg.gov.br/](https://dados.mg.gov.br/)
+
 ## 🚀 Motivação
 
 Acreditamos que a transparência e o acesso à informação são pilares essenciais para uma sociedade mais justa e desenvolvida. Ferramentas visuais que transformam dados complexos em conhecimento acessível fortalecem o controle social e contribuem para melhores práticas de gestão pública.
